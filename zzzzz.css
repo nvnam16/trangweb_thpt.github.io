@@ -1,0 +1,116 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.Quan1{
+    border: 1px rgb(rgb(107, 186, 127), rgb(149, 194, 149), rgb(158, 158, 229)) groove;
+    padding: 15px 20px 15px 15px;
+    text-align: center;
+    background-color: rgb(215, 178, 135);
+    width: 97%;
+    margin: 0px auto;
+}
+.Quan2{
+    font-size: 50px;
+    color: white;
+    font-weight: bold;
+    width: 98%;
+}
+.Quan3{
+    color: rgb(255, 255, 255);
+    background-color: yellowgreen;
+    border-radius: 7px;
+    border: 1px dashed rgb(87, 87, 108);
+    width: 750px;
+    height: 50px;
+   text-align: center;
+    font-size: 15px;
+    margin: 20px;
+    padding: 20px 20px 20px 20px;
+    font-weight: bold;
+    align-items: center;
+    margin-left: 330px;
+}
+.Quan6>li{
+    list-style: none;
+    float: left;
+    position: relative;
+    display: block;
+}
+.Quan6>li a{
+    text-decoration: none;
+    color: rgb(132, 9, 233);
+    padding: 0px 15px 0px 15px;
+    line-height: 50px;
+    display: block;
+}
+.Quan4{
+    width: 97%;
+    height: 50px;
+    background-color: #0babd3;
+    margin: 0px auto;
+    font-size: 22px;
+}
+
+.Quan6>li>a:hover{
+    background-color: yellowgreen;
+    color: rgb(248, 247, 244);
+    transform: ease-in 0.35s;}
+.Quan7{
+    width: 250px;
+    background-color: #0babd3;
+    min-height: 80px;
+    display: none;
+    position: absolute;
+}
+.Quan7 li{list-style: none;}
+.Quan7 li a{
+    text-transform: none;
+    text-decoration: none;
+    color: snow;
+    display: block;
+    border: 1px solid #ccc;
+    line-height: 40px;
+    text-indent: 12px;
+}
+.Quan6>li:hover .Quan7{
+    display: block;
+    background-color: #0babd3;
+    color: palevioletred;
+    transform: ease-in 0.35s;
+}
+.Quan7>li>a:hover{
+    background-color: yellowgreen;
+    color: white;
+    transform: ease-in 0.35s;
+}
+.Quan9{
+    border: 1px solid #ccc;
+    width: 97%;margin: 0px auto;
+    }
+    .Quan10 td{ border: 1px solid #ccc;}
+    .sp1 img{width: 70px; height: 60px;
+    align-items: center;}
+    .giacu{color: red; font-size: 18px;}
+    .giaban{color: blue;
+    font-size: 14px; font-weight: bold;}
+    .sp1{text-align: center;}
+    .giaban:hover{ font-size: 25px;
+    position: absolute;
+transform: ease-in 0.35s;}
+.sp1 img:hover{width: 90px;height: 80px;
+position: absolute;}
+.tranggt{
+    font-size: 18px;
+    color: chocolate;
+    background-color: darkgrey;
+    text-indent: 30px;
+
+}
+.Quan6>li:hover .Quan7{
+    display: block;
+    background-color: #0babd3;
+    color: palevioletred;
+    transform: ease-in 0.35s;
+}
